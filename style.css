@@ -1,0 +1,25 @@
+.text{
+    text-align: center;
+}
+.timer{
+    display: flex;
+    /* margin-left: 45%; */
+    align-items: center;
+    justify-content: center;
+}
+#hr{
+    font-size: 50px;
+    /* text-align: center; */
+}
+#min{
+    font-size: 50px;
+}
+#sec{
+    font-size: 50px;
+}
+.bre{
+    font-size: 50px;
+}
+.button{
+    text-align: center;
+}
